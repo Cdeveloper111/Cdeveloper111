@@ -1,82 +1,142 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
 
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
+<p align="left">
+  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
+
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA
+
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **unsimpledev@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+<!------------------------->
+<div id="apoyo">
+<h2>Si quieres apoyarme 😻</h2>
+  <p align="left">
+ <a href='https://cafecito.app/unsimpledev' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' align="left" height="50" width="230"/></a>
+    
+<a href='https://matecito.co/unsimpledev' rel='noopener' target='_blank'><img srcset='https://www.matecito.co/public/button_11.png 1x, https://www.matecito.co/public/button_11_2x.png 2x, https://www.matecito.co/public/button_11_3.75x.png 3.75x' src='https://www.matecito.co/public/button_11.png' alt='Convidame un Matecito' align="left" height="50" width="240" /></a>
+
+    
+    
+<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
+  </p>
 </div>
+  <br>
+<br><br>
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
-## Introduction
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+<td width="40%" align="center">
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
-
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
-
-## Contact us
-
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+</p>        
+<!--- stats (end) -->
